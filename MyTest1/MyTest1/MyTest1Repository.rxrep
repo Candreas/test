@@ -1,0 +1,195 @@
+﻿<repository
+id="4b87815b-da7a-4506-96c5-705ea972e55e"
+name="MyTest1Repository">
+	<codegen
+	classname="MyTest1Repository"
+	namespace="MyTest1">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="c73fdcd6-23bd-470d-b0b4-8e2c80e498d3"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="0ff33e2d-609f-420d-b2ab-e2acd16b1b00"
+		isrooted="True"
+		name="AUDIPrelabelTool1821222"
+		refpath="/form[@title='AUDI Prelabel Tool (1.8.2.1222)']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="button,accessible"
+			capname="button"
+			id="4ecca0f3-3391-4821-a0e7-3056e1ade3b3"
+			name="PushButton"
+			refimgid="bbf9030a-b5fe-44e4-9b5b-98f1604061c7"
+			refpath="/form[@title>'AUDI Prelabel Tool (1.8.2']/container[1]/container[2]/button[1]"
+			robustPath=""
+			searchtimeout="30000ms">
+				/form[@title&gt;'AUDI Prelabel Tool (1.8.2']/container[1]/container[2]/button[1]
+			</item>
+			<item
+			addcaps="button,accessible"
+			capname="button"
+			id="95b2a931-a34c-4ddb-9598-33b665a1bf31"
+			name="PushButton1"
+			refimgid="ff9b5d0e-7107-49e1-9efc-21c06142e343"
+			refpath="/form[@title>'AUDI Prelabel Tool (1.8.2']/container[1]/container[2]/button[2]"
+			robustPath=""
+			searchtimeout="30000ms">
+				/form[@title&gt;'AUDI Prelabel Tool (1.8.2']/container[1]/container[2]/button[2]
+			</item>
+			<folder
+			capname="container"
+			id="a7759cd2-fe51-403e-a901-6bba4da461cb"
+			isrooted="True"
+			name="Client5"
+			searchtimeout="30000ms"
+			usecache="False">
+				<item
+				addcaps="tabpage,accessible"
+				capname="tabpage"
+				id="a4c16f50-7b78-4d01-9665-e9e2e0f22f4e"
+				name="MFK5"
+				refimgid="94db6471-313d-4e5e-8c0c-ed88ce5f2481"
+				refpath="/form[@title>'AUDI Prelabel Tool (1.8.2']/container[2]/container[1]/container[@accessiblerole='Client']/tabpagelist/tabpage[@accessiblename='MFK5']"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@title&gt;'AUDI Prelabel Tool (1.8.2']/container[2]//tabpagelist[@accessiblename='MFK5']/tabpage[@accessiblename='MFK5']
+				</item>
+				<item
+				addcaps="container,accessible"
+				capname="container"
+				id="e9f28806-7b63-4243-a7f7-503f8ad0876d"
+				name="Client2"
+				refimgid="a985045f-4b22-48d9-b69d-ffa523a59c05"
+				refpath="/form[@title>'AUDI Prelabel Tool (1.8.2']/container[2]/container[1]/container[@accessiblerole='Pane']/container/container[14]"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@title&gt;'AUDI Prelabel Tool (1.8.2']/container[2]/container[1]/container[@accessiblerole='Pane']/container[@accessiblerole='Client']/container[14]
+				</item>
+				<item
+				addcaps="container,accessible"
+				capname="container"
+				id="9a1a07d6-237f-41fa-a745-bfd24a94b8fc"
+				name="Client"
+				refimgid="3f5ffc98-d326-43d0-bc17-78e3b16bd958"
+				refpath="/form[@title>'AUDI Prelabel Tool (1.8.2']/container[2]/container[1]/container[@accessiblerole='Pane']/container/container[1]"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@title&gt;'AUDI Prelabel Tool (1.8.2']/container[2]/container[1]/container[@accessiblerole='Pane']/container[@accessiblerole='Client']/container[1]
+				</item>
+				<item
+				addcaps="container,accessible"
+				capname="container"
+				id="3cad857e-e6b6-4d50-88cf-930f850602cc"
+				name="Client1"
+				refimgid="3ae511ee-47c3-4429-a68d-43193af14076"
+				refpath="/form[@title>'AUDI Prelabel Tool (1.8.2']/container[2]/container[1]/container[@accessiblerole='Pane']/container/container[25]"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@title&gt;'AUDI Prelabel Tool (1.8.2']/container[2]/container[1]/container[@accessiblerole='Pane']/container[@accessiblerole='Client']/container[25]
+				</item>
+				<item
+				addcaps="container,accessible"
+				capname="container"
+				id="f32e7408-c49f-4183-9f85-d903c6f62a7b"
+				name="Client3"
+				refimgid="524e5bd8-6299-4229-bcaf-213734f8e814"
+				refpath="/form[@title>'AUDI Prelabel Tool (1.8.2']/container[2]/container[1]/container[@accessiblerole='Pane']/container/container[34]"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@title&gt;'AUDI Prelabel Tool (1.8.2']/container[2]/container[1]/container[@accessiblerole='Pane']/container[@accessiblerole='Client']/container[34]
+				</item>
+				<item
+				addcaps="container,accessible"
+				capname="container"
+				id="0ac845b4-5908-4628-8a23-00eeea6a132f"
+				name="Client4"
+				refimgid="ab25df4f-278a-4491-a63f-576116793eba"
+				refpath="/form[@title>'AUDI Prelabel Tool (1.8.2']/container[2]/container[1]/container[@accessiblerole='Pane']/container/container[46]"
+				robustPath=""
+				searchtimeout="30000ms">
+					/form[@title&gt;'AUDI Prelabel Tool (1.8.2']/container[2]/container[1]/container[@accessiblerole='Pane']/container[@accessiblerole='Client']/container[46]
+				</item>
+				<basepath>
+					/form[@title&gt;'AUDI Prelabel Tool (1.8.2']/container[2]
+				</basepath>
+			</folder>
+			<basepath>
+				/form[@title&gt;'AUDI Prelabel Tool (1.8.2']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAH8SURBVDhPpVNNqxJhFO6q40zR6ELIdlKrliEY
+LfxApW2Lgu4uXJYorVwlfoH/Qa+rUDe2CtGNpJswBANNxRai4EKxi5/j6IzWnM7UG879ghs9cBZz
+znme93nPe+aGEsVikQYABkNLUtdHtVq9OZ1OP7Rara/z+fzdP4sg4VatVvum0Wig2WxWJUmiSel6
++CugVquh0Wj8vwB+M6Qk147q9TqVTCYpkrqIqwTa7baW5/nX/X7/02Aw+LjZbF7kcjn1b5ISlwlg
+aLfb7atsNsszDANGoxFw2Kc45HuEdoBSgAyRXa/Xb9PpNK/T6SAUCoHJZIJEIiFg/iGhHXDOwRdB
+EN5kMpmNSqWCSCQCNpsNnE6nNBqNSt1ulyW0A5QC2LBD26Jer4dYLAYWiwVcLpfU6/XeTyaTu9h+
+9IelwDkBcDgcEAgEwOv1gtlshuFwOFosFvdJ+0VcJhCPx+WhCQaDAfx+/8/xeJyYzWZ6QjkLpUCn
+0wG73S7bF/f7fTyfz59SFAXRaHTPcdwJXuM2oR0g/0h48meapsHj8QDLspBKpVa4A4+Xy+XTcrk8
+kp34fL4fVzrB53lZKpUWbrdbCgaDO2w8kYXD4bAK9+FJoVD4brVaJVyknSiKSVyys04qlYpmtVo9
+wHiGJ9iVDbIIunmEgzzGaxzjMz/nOO7OL3pzklRKER+UAAAAAElFTkSuQmCC
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="0a60dc0e-5fee-4f61-9ba3-41dba808fff8"
+		isrooted="True"
+		name="Qt5QWindowIcon"
+		refpath="/form[@class='Qt5QWindowIcon']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="picture,accessible"
+			capname="picture"
+			id="cc2b7d0e-6f87-4958-965b-97276ac05153"
+			name="None"
+			refimgid="0abc872e-ff72-4488-ab88-1424b3568429"
+			refpath="/form[@class='Qt5QWindowIcon']/button/picture"
+			robustPath=""
+			searchtimeout="30000ms">
+				/form[@class='Qt5QWindowIcon']/?/?/picture
+			</item>
+			<item
+			addcaps="container,accessible"
+			capname="container"
+			id="7d357496-a15d-450e-87ea-1a179bbafee4"
+			name="Client"
+			refimgid="eb12e6ca-6f72-4f7f-b760-57aec4f4cb10"
+			refpath="/form[@title='AUDIPrelabelTool']/container[1]"
+			robustPath=""
+			searchtimeout="30000ms">
+				/form[@class='Qt5QWindowIcon']/container[1]
+			</item>
+			<basepath>
+				/form[@class='Qt5QWindowIcon']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlz
+AAAOxAAADsQBlSsOGwAAAlFJREFUOE+lk+tLk2EYh/eX9CGipCIyCKLo4HHlzA8SVoR9KogkkKDM
+CKRCCwQtKUjtIJSdrKggqQ+CFZmHHGlzzrU552HqNnWbO7zHXT3bBLXQoG74fXvv63c9z8tj+O9p
+aDFz55WDmuYBqpp+cLnRzJnqTk5UdlNc8YWic60Ulr6koOTJshw8/RjjkXIMdc9tNLVrNLZp3GqV
+qX4dofJZkIpHs5Q3+Tl710fJ7UlO1o5zvNrN0SoXh644yS8zsyZtB4baZjN1bwLcfBvm4oMpTt1w
+U3zdybFrDg5ftVNYYaPg0iCmcisHLgxgLLOQe95CRmk369KNGGoaXuAPxAhHNeZFQhGVYFghIDIb
+SsUbUPDMyLi9Mg6PhHVMosvqYePW7QJQ38JqE4+DokJEijMX0ZkKaoz6VSwuLxs2b8Nw/+n7hU//
+HE0HSYkzH9OZmdeYnNNw+xR+Tir0DP0FoItmWSwnm8M606J5TDQ7pxSs4zKd1tUACW1NLMtxglEd
+X0hjYlbD5VWwTSj0j8h8tgjAphUAi+pxZsRySl3FLtQtozK9wxLtfSsAkupqQl1PqQdS6o6kusJ3
+l0yXQ6LNnACkLwckb1yDqDh3YKn6dEq9zy3R45TosMX40PsbQOyiLqiHhLo/eesqIwl1z6L6V3uM
+T9Yo73q8rE8A7i0xEOVI4p+HYggATMyByxdnyKPRP6rxbVilw67wcVBOAtambRFvof4hufvzyTGa
+yBbJEskUycg1sS/HxN7sPPaI7M7KY1dmKjszUsnJL2LhTf7rGAy/AP7X5rYY5FLEAAAAAElFTkSu
+QmCC
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>
